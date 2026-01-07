@@ -219,11 +219,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 Ce projet est un projet universitaire à but éducatif.
 
-## 👤 Auteur
-
-**Adam**
-- GitHub: [@AdamBfID](https://github.com/AdamBfID)
-- Repository: [SNCFTTrainDelayPrediction](https://github.com/AdamBfID/SNCFTTrainDelayPrediction)
 
 ## 🙏 Remerciements
 
@@ -232,10 +227,4 @@ Ce projet est un projet universitaire à but éducatif.
 - Communauté open-source (React, Recharts, Tailwind)
 - Articles de recherche en maintenance prédictive
 
-## 📞 Support
 
-Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
-
----
-
-**Note** : Ce projet utilise des données fictives à des fins de démonstration. Pour une utilisation en environnement réel, adaptez les données et paramètres à votre contexte spécifique.
